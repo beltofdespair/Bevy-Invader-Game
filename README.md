@@ -1,2 +1,2 @@
-# Bevy-Ping-Pong-Game
-Ping pong style game for learning the Bevy game engine.
+# Bevy-Invaders-Game
+Invader style game for the learning of the Bevy game engine.
